@@ -1,0 +1,15 @@
+.on {
+  color: orange;
+}
+.star-rating button {
+  background-color: transparent;
+  border: none;
+}
+.star-rating {
+  display: flex;
+  width: 160px;
+  align-items: center;
+}
+.off {
+  color: rgb(86, 78, 78);
+}

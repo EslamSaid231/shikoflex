@@ -1,0 +1,17 @@
+.link {
+  text-decoration: none;
+  color: white;
+  padding: 50px 50px;
+}
+.navbar {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  background-color: transparent;
+  align-items: center;
+}
+.navbar img {
+  padding-top: 10px;
+  padding-left: 50px;
+  width: 300px;
+}
